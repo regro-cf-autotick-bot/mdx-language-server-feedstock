@@ -1,5 +1,5 @@
 context:
-  version: "0.6.1"
+  version: "0.6.2"
 
 package:
   name: mdx-language-server
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://registry.npmjs.org/@mdx-js/language-server/-/language-server-${{ version }}.tgz
-  sha256: 6112a6c13da2250915cfcca7cf7585038b3a67945ed056472993febeb64fab55
+  sha256: c2edf77df7c42662e3ec638e8ee7ff9ef0a41f664374267dcbd88d9c5610e6cb
 
 build:
   number: 0
